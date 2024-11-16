@@ -32,7 +32,7 @@ If you do not have access to the two above dataset, please  [email](p2213545413@
 
 ## Pre-requirement
 
-    git clone https://github.com/InternLM/InternLM-XComposer.git
+    git clone  https://github.com/HoraceXIaoyiBao/GlyphicVLM-for-ChineseEE.git
     conda create -n gvlm python=3.9
     conda activate gvlm
 
@@ -48,3 +48,14 @@ For printing the visual emphasises, we need the gold label for train set and the
 We provide the LLM-predicted label in [ACE2005_test_predict](raw_data/generated_predictions.jsonl), which is annotated by a LoRA finetuned LLaMA-3-8B and align with our processed ACE05 testset. 
 
 You can also finetune and predict it by yourself.
+
+
+Place the train/dev/test json files in the raw_data folder, named zh_train_seq_oneie.json zh_dev_seq_oneie.json zh_test_seq_oneie.json
+
+    cd data
+    python getimage_tradition_color.py
+    python getimage_tradition_color_dev.py
+    python getimage_tradition_color_test.py
+
+    python ./final_oneie_tradition/turn_glm_intern.py
+
