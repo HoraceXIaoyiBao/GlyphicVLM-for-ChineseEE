@@ -9,9 +9,10 @@ import os
 
 print()
 
-checkpoints=os.listdir("/mnt/4dcc8983-1f7f-437e-bbca-b132b06be738/baoxiaoyi/emnlp2024/internLM_checkpoint_ee_nl_tradition")
+output_checkpoint="/mnt/4dcc8983-1f7f-437e-bbca-b132b06be738/baoxiaoyi/emnlp2024/internLM_checkpoint_ee_nl_tradition"
+checkpoints=os.listdir(output_checkpoint)
 
-checkpoints=["/mnt/4dcc8983-1f7f-437e-bbca-b132b06be738/baoxiaoyi/emnlp2024/internLM_checkpoint_ee_nl_tradition/"+ i for i in checkpoints if 'checkpoint' in i]
+checkpoints=[output_checkpoint+"/"+ i for i in checkpoints if 'checkpoint' in i]
 checkpoints=sorted(checkpoints, key= lambda x:int(x.split("-")[-1]))
 
 print(checkpoints)
@@ -37,13 +38,13 @@ for c in checkpoints:
 
 
 
-  f=open("/home/baoxiaoyi/emnlp2024/InternLM-XComposer/data/final_oneie_tradition/ee_nl_zh_test_seq_oneie_internLM.json","r")
+  f=open("./data/final_oneie_tradition/ee_nl_zh_test_seq_oneie_internLM.json","r")
 
   data=json.load(f)
   f.close()
 
 
-  f=open("/home/baoxiaoyi/emnlp2024/InternLM-XComposer/infer/out_oneie_ee_nl_tradition_"+ c.split("-")[-1] +".json","w")
+  f=open("./infer/out_oneie_ee_nl_tradition_"+ c.split("-")[-1] +".json","w")
 
 
   for i in tqdm(data):
