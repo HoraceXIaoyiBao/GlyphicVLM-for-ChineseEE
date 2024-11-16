@@ -1,0 +1,547 @@
+{"label": "这个句子中涉及的事件包括：1) 类型为Justice:Trial-Hearing的事件：一审，该事件涉及到的论元有：[A]角色为Adjudicator的中级人民法院，[B]角色为Defendant的肖作新，[C]角色为Defendant的周纪美 2) 类型为Justice:Sentence的事件：判处，该事件涉及到的论元有：[A]角色为Adjudicator的中级人民法院，[B]角色为Defendant的肖作新 3) 类型为Justice:Execute的事件：死刑，该事件涉及到的论元有：[A]角色为Person的周纪美，[B]角色为Agent的中级人民法院 4) 类型为Justice:Fine的事件：没收，该事件涉及到的论元有：[A]角色为Entity的肖作新，[B]角色为Entity的周纪美，[C]角色为Adjudicator的中级人民法院 ", "predict": "这个句子中涉及的事件包括：1) 类型为Justice:Sentence的事件：判决，该事件涉及到的论元有：[A]角色为Adjudicator的中级人民法院，[B]角色为Defendant的肖作新，[C]角色为Defendant的周纪美 2) 类型为Justice:Arrest-Jail的事件：被 判处，该事件涉及到的论元有：[A]角色为Person的肖作新，[B]角色为Person的周纪美 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Business:Merge-Org的事件：子公司，该事件涉及到的论元有：[A]角色为Org的罗 弗公司，[B]角色为Org的宝马公司 ", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：飞往，该事件涉及到的论元有：[A]角色为Vehicle的班机，[B]角色为Destination的台北，[C]角色为Origin的基隆坡 ", "predict": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：飞往，该事件涉及到的论元有：[A]角色为Vehicle的班机，[B]角色为Destination的台北，[C]角色为Origin的基隆坡 2) 类型为Movement:Transport的事件：飞抵，该事件涉及到的论元有：[A]角色为Vehicle的架，[B]角色为Destination的中振机场 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：飞往，该事件涉及到的论元有：[A]角色为Vehicle的班机，[B]角色为Destination的台北，[C]角色为Origin的基隆坡 ", "predict": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：飞往，该事件涉及到的论元有：[A]角色为Vehicle的班机，[B]角色为Destination的台北 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：飞往，该事件涉及到的论元有：[A]角色为Vehicle的客机，[B]角色为Destination的高雄 ", "predict": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：飞往，该事件涉及到的论元有：[A]角色为Vehicle的客机，[B]角色为Destination的高雄 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中涉及的事件包括：1) 类型为Business:Start-Org的事件：成立，该事件涉及到的论元有：[A]角色为Org的联合委员会，[B]角色为Agent的韩国，[C]角色为Agent的北韩 2) 类型为Transaction:Transfer-Money的事件：协助，该事件涉及到的论元有：[A]角色为Recipient的北韩，[B]角色为Agent的韩国，[C]角色为Agent的北韩 "}
+{"label": "这个句子中涉及的事件包括：1) 类型为Contact:Meet的事件：会议，该事件涉及到的论元有：[A]角色为Entity的国 ", "predict": "这个句子中涉及的事件包括：1) 类型为Contact:Meet的事件：会议，该事件涉及到的论元有：[A]角色为Entity的部长 "}
+{"label": "这个句子中涉及的事件包括：1) 类型为Contact:Meet的事件：会议，该事件涉及到的论元有：[A]角色为Place的平壤 ", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中涉及的事件包括：1) 类型为Transaction:Transfer-Ownership的事件：预定，该事件涉及到的论元有：[A]角色为Beneficiary的委员会 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中涉及的事件包括：1) 类型为Contact:Meet的事件：会面，该事件涉及到的论元有：[A]角色为Entity的家庭，[B]角色为Entity的成员 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Contact:Meet的事件：讨论，该事件涉及到的论元有：[A]角色为Place的平壤，[B]角色为Entity的代表 ", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Contact:Meet的事件：会谈，该事件不涉及论元。 ", "predict": "这个句子中涉及的事件包括：1) 类型为Contact:Meet的事件：会谈，该事件不涉及论元。 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Contact:Meet的事件：会谈，该事件涉及到的论元有：[A]角色为Entity的两韩 2) 类型为Contact:Meet的事件：会谈，该事件涉及到的论元有：[A]角色为Entity的两韩 ", "predict": "这个句子中涉及的事件包括：1) 类型为Contact:Meet的事件：会谈，该事件涉及到的论元有：[A]角色为Place的两韩，[B]角色为Entity的首脑 2) 类型为Contact:Meet的事件：会谈，该事件涉及到的论元有：[A]角色为Entity的部长 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Contact:Meet的事件：会谈，该事件不涉及论元。 ", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Personnel:Elect的事件：当选，该事件涉及到的论元有：[A]角色为Person的科什图尼察 ", "predict": "这个句子中涉及的事件包括：1) 类型为Personnel:Elect的事件：当选，该事件涉及到的论元有：[A]角色为Person的科什图尼察 "}
+{"label": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：冲进，该事件涉及到的论元有：[A]角色为Artifact的民众，[B]角色为Destination的议会，[C]角色为Destination的大 楼 ", "predict": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：冲进，该事件涉及到的论元有：[A]角色为Artifact的民众，[B]角色为Destination的大 楼 "}
+{"label": "这个句子中涉及的事件包括：1) 类型为Personnel:End-Position的事件：下台，该事件涉及到的论元有：[A]角色为Person的总统 ", "predict": "这个句子中涉及的事件包括：1) 类型为Personnel:End-Position的事件：下台，该事件涉及到的论元有：[A]角色为Person的总统 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：离开，该事件涉及到的论元有：[A]角色为Origin的军营 2) 类型为Conflict:Attack的事件：起义，该事件涉及到的论元有：[A]角色为Attacker的反对派，[B]角色为Target的军队 ", "predict": "这个句子中涉及的事件包括：1) 类型为Conflict:Attack的事件：起义，该事件涉及到的论元有：[A]角色为Attacker的军队，[B]角色为Target的反对派 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：离开，该事件涉及到的论元有：[A]角色为Vehicle的运输机，[B]角色为Artifact的谁，[C]角色为Origin的贝尔格莱德 ", "predict": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：离开，该事件涉及到的论元有：[A]角色为Vehicle的运输机，[B]角色为Origin的贝尔格莱德 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中涉及的事件包括：1) 类型为Personnel:End-Position的事件：执政，该事件涉及到的论元有：[A]角色为Person的米洛舍 维奇 "}
+{"label": "这个句子中涉及的事件包括：1) 类型为Personnel:Elect的事件：选举，该事件涉及到的论元有：[A]角色为Person的科什图尼察 ", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Personnel:End-Position的事件：下台，该事件涉及到的论元有：[A]角色为Person的总统 ", "predict": "这个句子中涉及的事件包括：1) 类型为Personnel:End-Position的事件：下台，该事件涉及到的论元有：[A]角色为Person的总统 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Personnel:End-Position的事件：下台，该事件涉及到的论元有：[A]角色为Person的米洛舍维奇 ", "predict": "这个句子中涉及的事件包括：1) 类型为Personnel:End-Position的事件：下台，该事件涉及到的论元有：[A]角色为Person的米洛舍维奇 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：来，该事件涉及到的论元有：[A]角色为Destination的台北，[B]角色为Origin的大陆 ", "predict": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：来，该事件涉及到的论元有：[A]角色为Artifact的法轮功，[B]角色为Origin的大陆 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Life:Marry的事件：嫁，该事件涉及到的论元有：[A]角色为Person的宋艳，[B]角色为Place的台湾 2) 类型为Justice:Arrest-Jail的事件：关，该事件涉及到的论元有：[A]角色为Person的宋艳，[B]角色为Place的大陆 ", "predict": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：到，该事件涉及到的论元有：[A]角色为Artifact的宋艳则，[B]角色为Destination的大陆，[C]角色为Origin的台湾 2) 类型为Justice:Arrest-Jail的事件：关，该事件涉及到的论元有：[A]角色为Person的宋艳则，[B]角色为Place的大陆 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Conflict:Demonstrate的事件：游行，该事件涉及到的论元有：[A]角色为Entity的学员 ", "predict": "这个句子中涉及的事件包括：1) 类型为Conflict:Attack的事件：迫害，该事件涉及到的论元有：[A]角色为Target的人权 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Justice:Trial-Hearing的事件：审判，该事件涉及到的论元有：[A]角色为Defendant的彭春燕 2) 类型为Justice:Trial-Hearing的事件：审判，该事件不涉及论元。 ", "predict": "这个句子中涉及的事件包括：1) 类型为Justice:Trial-Hearing的事件：审判，该事件涉及到的论元有：[A]角色为Defendant的彭春燕 "}
+{"label": "这个句子中涉及的事件包括：1) 类型为Justice:Trial-Hearing的事件：审判，该事件涉及到的论元有：[A]角色为Defendant的彭春燕，[B]角色为Place的大陆 ", "predict": "这个句子中涉及的事件包括：1) 类型为Justice:Trial-Hearing的事件：审判，该事件涉及到的论元有：[A]角色为Defendant的彭春燕，[B]角色为Place的大陆 "}
+{"label": "这个句子中涉及的事件包括：1) 类型为Justice:Trial-Hearing的事件：审判，该事件涉及到的论元有：[A]角色为Place的第一中级人民法院 ", "predict": "这个句子中涉及的事件包括：1) 类型为Justice:Trial-Hearing的事件：审判，该事件涉及到的论元有：[A]角色为Adjudicator的第一中级人民法院 "}
+{"label": "这个句子中涉及的事件包括：1) 类型为Justice:Charge-Indict的事件：构成，该事件涉及到的论元有：[A]角色为Defendant的彭春燕，[B]角色为Prosecutor的检察院 ", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Justice:Trial-Hearing的事件：审判，该事件涉及到的论元有：[A]角色为Defendant的彭 春燕 2) 类型为Justice:Trial-Hearing的事件：审判，该事件不涉及论元。 3) 类型为Justice:Sentence的事件：宣判，该事件涉及到的论元有：[A]角色为Adjudicator的法院 4) 类型为Justice:Sentence的事件：宣判，该事件涉及到的论元有：[A]角色为Adjudicator的法院 ", "predict": "这个句子中涉及的事件包括：1) 类型为Justice:Trial-Hearing的事件：审判，该事件涉及到的论元有：[A]角色为Adjudicator的信息中心，[B]角色为Defendant的彭 春燕 2) 类型为Justice:Trial-Hearing的事件：审判，该事件涉及到的论元有：[A]角色为Defendant的她 3) 类型为Justice:Sentence的事件：宣判，该事件涉及到的论元有：[A]角色为Adjudicator的法院 4) 类型为Justice:Sentence的事件：宣判，该事件涉及到的论元有：[A]角色为Adjudicator的法院 "}
+{"label": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：移居，该事件涉及到的论元有：[A]角色为Artifact的彭春燕，[B]角色为Destination的美国，[C]角色为Origin的大陆 ", "predict": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：移居，该事件涉及到的论元有：[A]角色为Artifact的彭春燕，[B]角色为Origin的大陆，[C]角色为Destination的美国 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Justice:Arrest-Jail的事件：拘捕，该事件涉及到的论元有：[A]角色为Person的他们，[B]角色为Agent的当局 2) 类型为Justice:Trial-Hearing的事件：审判，该事件不涉及论元。 ", "predict": "这个句子中涉及的事件包括：1) 类型为Justice:Arrest-Jail的事件：拘捕，该事件涉及到的论元有：[A]角色为Person的他们，[B]角色为Agent的当局 2) 类型为Movement:Transport的事件：驱逐，该事件涉及到的论元有：[A]角色为Artifact的他们，[B]角色为Agent的当局，[C]角色为Destination的出境 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中涉及的事件包括：1) 类型为Justice:Charge-Indict的事件：受贿，该事件涉及到的论元有：[A]角色为Defendant的总统 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中涉及的事件包括：1) 类型为Contact:Meet的事件：会谈，该事件涉及到的论元有：[A]角色为Entity的中共，[B]角色为Entity的美国 2) 类型为Contact:Meet的事件：和谈，该事件涉及到的论元有：[A]角色为Entity的两岸 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：前往，该事件涉及到的论元有：[A]角色为Destination的百花院迎宾馆，[B]角色为Artifact的金正日 2) 类型为Movement:Transport的事件：抵达，该事件涉及到的论元有：[A]角色为Artifact的奥尔布赖特，[B]角色为Destination的平 壤 3) 类型为Contact:Meet的事件：会谈，该事件涉及到的论元有：[A]角色为Entity的金正日，[B]角色为Entity的奥尔布赖特，[C]角色为Place的百花院迎宾馆 ", "predict": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：前往，该事件涉及到的论元有：[A]角色为Artifact的金正日，[B]角色为Destination的百花院 2) 类型为Movement:Transport的事件：抵达，该事件涉及到的论元有：[A]角色为Artifact的奥尔布赖特，[B]角色为Destination的平 壤 3) 类型为Contact:Meet的事件：会谈，该事件涉及到的论元有：[A]角色为Place的平 壤，[B]角色为Entity的金正日，[C]角色为Entity的奥尔布赖特 "}
+{"label": "这个句子中涉及的事件包括：1) 类型为Contact:Meet的事件：会谈，该事件涉及到的论元有：[A]角色为Entity的人 ", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：行，该事件涉及到的论元有：[A]角色为Artifact的克林顿，[B]角色为Origin的美国，[C]角色为Destination的平壤 ", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Contact:Meet的事件：会晤，该事件涉及到的论元有：[A]角色为Place的平壤，[B]角色为Entity的金正日，[C]角色为Entity的奥尔布赖 特 2) 类型为Movement:Transport的事件：访问，该事件涉及到的论元有：[A]角色为Artifact的奥尔布赖 特，[B]角色为Destination的平壤 3) 类型为Contact:Meet的事件：会谈，该事件涉及到的论元有：[A]角色为Entity的她，[B]角色为Entity的赵明录，[C]角色为Entity的金永南，[D]角色为Entity的白南纯 ", "predict": "这个句子中涉及的事件包括：1) 类型为Contact:Meet的事件：会晤，该事件涉及到的论元有：[A]角色为Place的平壤，[B]角色为Entity的金正日，[C]角色为Entity的奥尔布赖 特 2) 类型为Movement:Transport的事件：访问，该事件涉及到的论元有：[A]角色为Artifact的奥卿，[B]角色为Destination的平壤 3) 类型为Contact:Meet的事件：会谈，该事件涉及到的论元有：[A]角色为Place的平壤，[B]角色为Entity的奥卿，[C]角色为Entity的赵明录，[D]角色为Entity的金永南，[E]角色为Entity的白南纯 4) 类型为Conflict:Attack的事件：延后，该事件涉及到的论元有：[A]角色为Attacker的事件，[B]角色为Target的事件 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：行，该事件涉及到的论元有：[A]角色为Artifact的克林顿，[B]角色为Destination的平壤 2) 类型为Movement:Transport的事件：飞往，该事件涉及到的论元有：[A]角色为Vehicle的专机，[B]角色为Artifact的奥尔布赖特，[C]角色为Origin的平壤，[D]角色为Destination的汉城 3) 类型为Movement:Transport的事件：行，该事件涉及到的论元有：[A]角色为Artifact的奥尔布赖特，[B]角色为Destination的平壤 ", "predict": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：之行，该事件涉及到的论元有：[A]角色为Vehicle的专机，[B]角色为Artifact的奥尔布赖特，[C]角色为Destination的南，[D]角色为Destination的北，[E]角色为Destination的韩，[F]角色为Origin的平壤 2) 类型为Movement:Transport的事件：飞往，该事件涉及到的论元有：[A]角色为Vehicle的专机，[B]角色为Artifact的奥尔布赖特，[C]角色为Destination的南，[D]角色为Destination的北，[E]角色为Destination的韩，[F]角色为Origin的平壤 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Contact:Meet的事件：会见，该事件涉及到的论元有：[A]角色为Place的斯里巴加湾，[B]角色为Entity的普京，[C]角色为Entity的克林顿 ", "predict": "这个句子中涉及的事件包括：1) 类型为Contact:Meet的事件：会见，该事件涉及到的论元有：[A]角色为Place的斯里巴加湾，[B]角色为Entity的普京，[C]角色为Entity的克林顿 "}
+{"label": "这个句子中涉及的事件包括：1) 类型为Contact:Meet的事件：会晤，该事件涉及到的论元有：[A]角色为Entity的领导人 ", "predict": "这个句子中涉及的事件包括：1) 类型为Contact:Meet的事件：会晤，该事件涉及到的论元有：[A]角色为Entity的领导人 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Personnel:End-Position的事件：撤消，该事件涉及到的论元有：[A]角色为Person的同志，[B]角色为Entity的中央委员会 2) 类型为Personnel:End-Position的事件：撤 消，该事件涉及到的论元有：[A]角色为Person的同志，[B]角色为Entity的国防科学技术工业委员会 ", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：寄回，该事件涉及到的论元有：[A]角色为Destination的佛罗里达州 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：占领，该事件涉及到的论元有：[A]角色为Artifact的议员，[B]角色为Destination的办公 室 ", "predict": "这个句子中涉及的事件包括：1) 类型为Conflict:Demonstrate的事件：占领，该事件涉及到的论元有：[A]角色为Entity的议员，[B]角色为Place的国会，[C]角色为Entity的国会 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中涉及的事件包括：1) 类型为Personnel:Start-Position的事件：总统，该事件不涉及论元。 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中涉及的事件包括：1) 类型为Justice:Trial-Hearing的事件：审理，该事件涉及到的论元有：[A]角色为Defendant的埃斯特拉达，[B]角色为Prosecutor的参议员 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：到，该事件涉及到的论元有：[A]角色为Artifact的戴克星，[B]角色为Destination的反贪污委员会 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Conflict:Attack的事件：自杀，该事件涉及到的论元有：[A]角色为Attacker的市民，[B]角色为Target的市民 2) 类型为Life:Die的事件：人命，该事件涉及到的论元有：[A]角色为Victim的他 ", "predict": "这个句子中涉及的事件包括：1) 类型为Life:Die的事件：自杀，该事件涉及到的论元有：[A]角色为Victim的台北市民 2) 类型为Life:Die的事件：服食，该事件涉及到的论元有：[A]角色为Victim的他 "}
+{"label": "这个句子中涉及的事件包括：1) 类型为Life:Die的事件：死，该事件涉及到的论元有：[A]角色为Victim的亲人 ", "predict": "这个句子中涉及的事件包括：1) 类型为Life:Die的事件：死，该事件涉及到的论元有：[A]角色为Victim的亲人 "}
+{"label": "这个句子中涉及的事件包括：1) 类型为Life:Die的事件：人命，该事件不涉及论元。 ", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Life:Die的事件：死，该事件涉及到的论元有：[A]角色为Victim的高峰 ", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Life:Die的事件：逼死，该事件涉及到的论元有：[A]角色为Victim的郑侠东，[B]角色为Agent的政府 ", "predict": "这个句子中涉及的事件包括：1) 类型为Life:Die的事件：逼死，该事件涉及到的论元有：[A]角色为Victim的侠东 "}
+{"label": "这个句子中涉及的事件包括：1) 类型为Life:Die的事件：逼死，该事件涉及到的论元有：[A]角色为Victim的大哥 ", "predict": "这个句子中涉及的事件包括：1) 类型为Life:Die的事件：逼死，该事件涉及到的论元有：[A]角色为Victim的大哥 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Conflict:Attack的事件：冲突，该事件涉及到的论元有：[A]角色为Attacker的民众，[B]角色为Place的服务 处 ", "predict": "这个句子中涉及的事件包括：1) 类型为Conflict:Attack的事件：冲突，该事件涉及到的论元有：[A]角色为Attacker的民众，[B]角色为Target的服务 处 2) 类型为Conflict:Demonstrate的事件：声援，该事件涉及到的论元有：[A]角色为Entity的民众 3) 类型为Conflict:Attack的事件：付出，该事件涉及到的论元有：[A]角色为Attacker的民众 "}
+{"label": "这个句子中涉及的事件包括：1) 类型为Conflict:Attack的事件：冲突，该事件不涉及论元。 ", "predict": "这个句子中涉及的事件包括：1) 类型为Conflict:Attack的事件：冲突，该事件涉及到的论元有：[A]角色为Attacker的民进党员，[B]角色为Target的民进党员 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：到，该事件涉及到的论元有：[A]角色为Artifact的民众，[B]角色为Destination的服务处 2) 类型为Conflict:Attack的事件：冲突，该事件涉及到的论元有：[A]角色为Attacker的民众，[B]角色为Place的服务处 ", "predict": "这个句子中涉及的事件包括：1) 类型为Conflict:Attack的事件：冲突，该事件涉及到的论元有：[A]角色为Attacker的民众，[B]角色为Target的民众 2) 类型为Conflict:Attack的事件：擦枪走 火，该事件不涉及论元。 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Personnel:Elect的事件：选举，该事件涉及到的论元有：[A]角色为Person的科斯图尼察 ", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Personnel:Elect的事件：当选，该事件涉及到的论元有：[A]角色为Person的领袖 ", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Personnel:End-Position的事件：离任，该事件涉及到的论元有：[A]角色为Person的米洛舍维奇 2) 类型为Personnel:Elect的事件：当选，该事件涉及到的论元有：[A]角色为Person的科什 图尼察 ", "predict": "这个句子中涉及的事件包括：1) 类型为Personnel:End-Position的事件：离任，该事件涉及到的论元有：[A]角色为Person的米洛舍维奇 2) 类型为Personnel:Start-Position的事件：当选，该事件涉及到的论元有：[A]角色为Person的科什 图尼察 "}
+{"label": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：走上，该事件涉及到的论元有：[A]角色为Artifact的人，[B]角色为Destination的街头 2) 类型为Personnel:End-Position的事件：辞职，该事件涉及到的论元有：[A]角色为Person的米洛舍维 奇 3) 类型为Personnel:Elect的事件：羸得，该事件涉及到的论元有：[A]角色为Person的欢 呼和科什图尼察 ", "predict": "这个句子中涉及的事件包括：1) 类型为Conflict:Demonstrate的事件：走上街头，该事件涉及到的论元有：[A]角色为Place的贝尔格来德，[B]角色为Entity的人 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Contact:Meet的事件：会务，该事件涉及到的论元有：[A]角色为Entity的伊万诺夫，[B]角色为Entity的科什图尼察，[C]角色为Entity的米洛舍维奇，[D]角色为Place的贝尔格莱德 2) 类型为Personnel:Elect的事件：大选，该事件涉及到的论元有：[A]角色为Person的他 3) 类型为Personnel:Elect的事件：大选，该事件涉及到的论元有：[A]角色为Person的科什图尼察 ", "predict": "这个句子中涉及的事件包括：1) 类型为Contact:Meet的事件：会务，该事件涉及到的论元有：[A]角色为Place的贝尔格莱德，[B]角色为Entity的伊万诺夫，[C]角色为Entity的科什图尼察，[D]角色为Entity的米洛舍维奇 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Contact:Meet的事件：会见，该事件涉及到的论元有：[A]角色为Entity的伊万诺 夫，[B]角色为Entity的米洛舍维奇 2) 类型为Contact:Meet的事件：会见，该事件不涉及论元。 ", "predict": "这个句子中涉及的事件包括：1) 类型为Contact:Meet的事件：会见，该事件涉及到的论元有：[A]角色为Entity的伊万诺 夫，[B]角色为Entity的米洛舍维奇 2) 类型为Contact:Meet的事件：会见，该事件不涉及论元。 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Justice:Charge-Indict的事件：起诉，该事件涉及到的论元有：[A]角色为Adjudicator的国际战争犯罪法庭，[B]角色为Defendant的米 洛舍维奇 2) 类型为Conflict:Attack的事件：冲突，该事件涉及到的论元有：[A]角色为Place的巴尔干 ", "predict": "这个句子中涉及的事件包括：1) 类型为Justice:Charge-Indict的事件：起诉，该事件涉及到的论元有：[A]角色为Defendant的米 洛舍维奇，[B]角色为Prosecutor的法庭 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中涉及的事件包括：1) 类型为Business:End-Org的事件：解除，该事件涉及到的论元有：[A]角色为Org的南斯拉夫 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Contact:Meet的事件：会务，该事件涉及到的论元有：[A]角色为Entity的米洛舍维奇，[B]角色为Entity的外长 ", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：出，该事件涉及到的论元有：[A]角色为Artifact的他，[B]角色为Destination的国 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：进出，该事件涉及到的论元有：[A]角色为Vehicle的航班，[B]角色为Destination的贝尔格莱德 2) 类型为Movement:Transport的事件：出国，该事件涉及到的论元有：[A]角色为Artifact的米洛舍维奇 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：访问，该事件涉及到的论元有：[A]角色为Artifact的塞吉耶夫，[B]角色为Destination的日本 ", "predict": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：访问，该事件涉及到的论元有：[A]角色为Artifact的塞吉耶夫，[B]角色为Destination的日本 "}
+{"label": "这个句子中涉及的事件包括：1) 类型为Contact:Meet的事件：会谈，该事件涉及到的论元有：[A]角色为Entity的塞吉耶夫，[B]角色为Entity的和野洋平 ", "predict": "这个句子中涉及的事件包括：1) 类型为Contact:Meet的事件：会谈，该事件涉及到的论元有：[A]角色为Entity的塞吉耶夫，[B]角色为Entity的和野洋平 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Contact:Meet的事件：会谈，该事件涉及到的论元有：[A]角色为Entity的韩 ", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Conflict:Attack的事件：攻击，该事件涉及到的论元有：[A]角色为Attacker的塔利班 ", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中涉及的事件包括：1) 类型为Business:End-Org的事件：脱 离，该事件涉及到的论元有：[A]角色为Org的部队 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中涉及的事件包括：1) 类型为Personnel:End-Position的事件：结束，该事件涉及到的论元有：[A]角色为Person的部队 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Life:Be-Born的事件：出生，该事件涉及到的论元有：[A]角色为Person的文仁 2) 类型为Life:Be-Born的事件：出生，该事件涉及到的论元有：[A]角色为Person的男性 ", "predict": "这个句子中涉及的事件包括：1) 类型为Life:Be-Born的事件：出生，该事件涉及到的论元有：[A]角色为Person的文仁亲王，[B]角色为Place的皇 室 "}
+{"label": "这个句子中涉及的事件包括：1) 类型为Life:Be-Born的事件：添，该事件涉及到的论元有：[A]角色为Person的男丁，[B]角色为Place的日本 ", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Life:Marry的事件：结婚，该事件涉及到的论元有：[A]角色为Person的德仁，[B]角色为Person的小和 田雅子 2) 类型为Life:Be-Born的事件：生，该事件涉及到的论元有：[A]角色为Person的爱子 ", "predict": "这个句子中涉及的事件包括：1) 类型为Life:Marry的事件：结婚，该事件涉及到的论元有：[A]角色为Person的德仁，[B]角色为Person的雅子 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中涉及的事件包括：1) 类型为Life:Be-Born的事件：育有，该事件涉及到的论元有：[A]角色为Person的夫妇 "}
+{"label": "这个句子中涉及的事件包括：1) 类型为Life:Be-Born的事件：生，该事件涉及到的论元有：[A]角色为Person的男孩 ", "predict": "这个句子中涉及的事件包括：1) 类型为Life:Be-Born的事件：生育，该事件涉及到的论元有：[A]角色为Person的王妃 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Contact:Meet的事件：会议，该事件涉及到的论元有：[A]角色为Entity的委员会 ", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中涉及的事件包括：1) 类型为Contact:Meet的事件：提交，该事件涉及到的论元有：[A]角色为Entity的小泉纯一郎 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中涉及的事件包括：1) 类型为Personnel:Start-Position的事件：继承，该事件涉及到的论元有：[A]角色为Person的女性 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Life:Be-Born的事件：出生，该事件涉及到的论元有：[A]角色为Person的爱子 ", "predict": "这个句子中涉及的事件包括：1) 类型为Life:Be-Born的事件：出生，该事件涉及到的论元有：[A]角色为Person的爱子 "}
+{"label": "这个句子中涉及的事件包括：1) 类型为Personnel:Start-Position的事件：在位，该事件涉及到的论元有：[A]角色为Person的天皇，[B]角色为Place的日本 ", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Personnel:End-Position的事件：逐出，该事件涉及到的论元有：[A]角色为Person的田亮，[B]角色为Entity的国家跳水队 ", "predict": "这个句子中涉及的事件包括：1) 类型为Personnel:End-Position的事件：逐出，该事件涉及到的论元有：[A]角色为Entity的国家跳水队，[B]角色为Person的田亮 "}
+{"label": "这个句子中涉及的事件包括：1) 类型为Personnel:End-Position的事件：开除，该事件涉及到的论元有：[A]角色为Person的田亮，[B]角色为Entity的国家队 ", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Personnel:End-Position的事件：开除，该事件涉及到的论元有：[A]角色为Person的田亮，[B]角色为Entity的国家队 ", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Personnel:End-Position的事件：开除，该事件涉及到的论元有：[A]角色为Person的田亮，[B]角色为Entity的国家队 ", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Transaction:Transfer-Money的事件：发，该事件涉及到的论元有：[A]角色为Beneficiary的运动员，[B]角色为Recipient的运动员 ", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：进入，该事件涉及到的论元有：[A]角色为Artifact的运动员，[B]角色为Agent的跳水训 练中心 ", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Justice:Sue的事件：诉讼，该事件涉及到的论元有：[A]角色为Plaintiff的修道院 2) 类型为Movement:Transport的事件：离开，该事件涉及到的论元有：[A]角色为Artifact的达芬奇，[B]角色为Origin的修道院 ", "predict": "这个句子中涉及的事件包括：1) 类型为Justice:Sue的事件：诉讼，该事件涉及到的论元有：[A]角色为Adjudicator的修道院 2) 类型为Movement:Transport的事件：离开，该事件涉及到的论元有：[A]角色为Artifact的达芬奇，[B]角色为Destination的修道院 "}
+{"label": "这个句子中涉及的事件包括：1) 类型为Justice:Sue的事件：诉讼，该事件不涉及论元。 ", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Business:Start-Org的事件：开业，该事件涉及到的论元有：[A]角色为Org的餐馆，[B]角色为Place的虹桥区 ", "predict": "这个句子中涉及的事件包括：1) 类型为Business:Start-Org的事件：开业，该事件涉及到的论元有：[A]角色为Org的警报器，[B]角色为Place的虹桥区 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：来，该事件涉及到的论元有：[A]角色为Artifact的顾客，[B]角色为Destination的警报器 2) 类型为Contact:Meet的事件：聊天，该事件涉及到的论元有：[A]角色为Place的警报器，[B]角色为Entity的顾客，[C]角色为Entity的服务 员 ", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：漫步，该事件涉及到的论元有：[A]角色为Artifact的女服务员，[B]角色为Destination的附近 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中涉及的事件包括：1) 类型为Personnel:Start-Position的事件：接纳，该事件涉及到的论元有：[A]角色为Person的警报器女孩 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：去，该事件涉及到的论元有：[A]角色为Artifact的店主，[B]角色为Destination的国家 ", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：去过，该事件涉及到的论元有：[A]角色为Artifact的俺，[B]角色为Destination的市场 ", "predict": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：去过，该事件涉及到的论元有：[A]角色为Artifact的俺，[B]角色为Destination的市场 "}
+{"label": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：去，该事件涉及到的论元有：[A]角色为Destination的地方 ", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Business:End-Org的事件：关门，该事件涉及到的论元有：[A]角色为Place的美国人，[B]角色为Org的工场，[C]角色为Org的农场 ", "predict": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：转移到，该事件涉及到的论元有：[A]角色为Destination的亚洲，[B]角色为Origin的工场农场 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：迁入，该事件涉及到的论元有：[A]角色为Artifact的人口，[B]角色为Destination的地皮 ", "predict": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：迁入，该事件涉及到的论元有：[A]角色为Artifact的人口，[B]角色为Destination的块地皮 2) 类型为Construction:Build-Structure的事件：建设，该事件涉及到的论元有：[A]角色为Artifact的楼，[B]角色为Place的块地皮 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：迁入，该事件涉及到的论元有：[A]角色为Agent的公司，[B]角色为Destination的川沙集镇，[C]角色为Artifact的居民 ", "predict": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：迁，该事件涉及到的论元有：[A]角色为Artifact的居民，[B]角色为Destination的川沙集镇 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Transaction:Transfer-Ownership的事件：易，该事件涉及到的论元有：[A]角色为Artifact的楼，[B]角色为Seller的居民 ", "predict": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：拆迁，该事件涉及到的论元有：[A]角色为Artifact的居民，[B]角色为Origin的川沙集镇 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Justice:Arrest-Jail的事件：逮捕，该事件涉及到的论元有：[A]角色为Person的周正毅 2) 类型为Justice:Release-Parole的事件：保外就医，该事件涉及到的论元有：[A]角色为Person的周正毅 ", "predict": "这个句子中涉及的事件包括：1) 类型为Justice:Arrest-Jail的事件：逮捕，该事件涉及到的论元有：[A]角色为Person的周正毅 2) 类型为Justice:Release-Parole的事件：保外，该事件涉及到的论元有：[A]角色为Person的周正毅 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Justice:Arrest-Jail的事件：关押，该事件涉及到的论元有：[A]角色为Person的周正毅，[B]角色为Agent的提篮桥监狱 2) 类型为Justice:Release-Parole的事件：保外就医，该事件涉及到的论元有：[A]角色为Person的周正毅 ", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Justice:Arrest-Jail的事件：入狱，该事件涉及到的论元有：[A]角色为Person的人 ", "predict": "这个句子中涉及的事件包括：1) 类型为Justice:Arrest-Jail的事件：入狱，该事件涉及到的论元有：[A]角色为Person的人 "}
+{"label": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：走出，该事件涉及到的论元有：[A]角色为Artifact的周，[B]角色为Origin的监狱 ", "predict": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：走出，该事件涉及到的论元有：[A]角色为Artifact的周，[B]角色为Origin的监狱 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Contact:Meet的事件：会议，该事件涉及到的论元有：[A]角色为Entity的协调 委员会 ", "predict": "这个句子中涉及的事件包括：1) 类型为Contact:Meet的事件：会议，该事件涉及到的论元有：[A]角色为Entity的双方 2) 类型为Contact:Meet的事件：磋商，该事件涉及到的论元有：[A]角色为Entity的双方 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Contact:Phone-Write的事件：电话，该事件涉及到的论元有：[A]角色为Entity的徐红艳，[B]角色为Entity的母亲 ", "predict": "这个句子中涉及的事件包括：1) 类型为Contact:Phone-Write的事件：电话，该事件涉及到的论元有：[A]角色为Entity的徐红艳，[B]角色为Entity的母亲 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Contact:Phone-Write的事件：电话，该事件涉及到的论元有：[A]角色为Entity的母亲，[B]角色为Entity的她 ", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中涉及的事件包括：1) 类型为Personnel:Elect的事件：选举，该事件涉及到的论元有：[A]角色为Place的波兰 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中涉及的事件包括：1) 类型为Personnel:Start-Position的事件：任期，该事件涉及到的论元有：[A]角色为Person的总统 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中涉及的事件包括：1) 类型为Personnel:Elect的事件：连任，该事件涉及到的论元有：[A]角色为Person的克瓦希涅夫斯基 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Personnel:Elect的事件：当选，该事件涉及到的论元有：[A]角色为Person的他 ", "predict": "这个句子中涉及的事件包括：1) 类型为Personnel:Start-Position的事件：当选，该事件涉及到的论元有：[A]角色为Person的他，[B]角色为Entity的团结工会 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中涉及的事件包括：1) 类型为Business:Start-Org的事件：组成，该事件涉及到的论元有：[A]角色为Org的团结选 举行动联盟 2) 类型为Personnel:Start-Position的事件：组阁，该事件涉及到的论元有：[A]角色为Entity的自由联盟 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中涉及的事件包括：1) 类型为Business:End-Org的事件：退出，该事件涉及到的论元有：[A]角色为Org的自由联盟 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Contact:Meet的事件：会晤，该事件涉及到的论元有：[A]角色为Place的安曼，[B]角色为Entity的阿卜杜拉，[C]角色为Entity的阿拉法特 ", "predict": "这个句子中涉及的事件包括：1) 类型为Contact:Meet的事件：会晤，该事件涉及到的论元有：[A]角色为Place的安曼，[B]角色为Entity的阿卜杜拉，[C]角色为Entity的阿拉法特 "}
+{"label": "这个句子中涉及的事件包括：1) 类型为Conflict:Attack的事件：冲突，该事件涉及到的论元有：[A]角色为Attacker的巴，[B]角色为Attacker的以，[C]角色为Target的巴，[D]角色为Target的以 ", "predict": "这个句子中涉及的事件包括：1) 类型为Conflict:Attack的事件：冲突，该事件涉及到的论元有：[A]角色为Attacker的巴，[B]角色为Attacker的以，[C]角色为Target的巴，[D]角色为Target的以 2) 类型为Life:Die的事件：流血，该事件涉及到的论元有：[A]角色为Victim的巴，[B]角色为Victim的以 "}
+{"label": "这个句子中涉及的事件包括：1) 类型为Conflict:Attack的事件：挑衅，该事件涉及到的论元有：[A]角色为Attacker的军队，[B]角色为Target的人民 2) 类型为Conflict:Attack的事件：镇压，该事件涉及到的论元有：[A]角色为Attacker的军队，[B]角色为Target的人民 3) 类型为Movement:Transport的事件：撤离，该事件涉及到的论元有：[A]角色为Origin的地 区 ", "predict": "这个句子中涉及的事件包括：1) 类型为Conflict:Attack的事件：镇压，该事件涉及到的论元有：[A]角色为Attacker的军队，[B]角色为Target的人民 2) 类型为Movement:Transport的事件：撤离，该事件涉及到的论元有：[A]角色为Agent的军队，[B]角色为Origin的地 区 "}
+{"label": "这个句子中涉及的事件包括：1) 类型为Contact:Meet的事件：会晤，该事件涉及到的论元有：[A]角色为Entity的阿拉法特 ", "predict": "这个句子中涉及的事件包括：1) 类型为Contact:Meet的事件：会晤，该事件涉及到的论元有：[A]角色为Entity的阿拉法特 2) 类型为Personnel:Endorse的事件：评价，该事件涉及到的论元有：[A]角色为Entity的阿拉法特 3) 类型为Transaction:Transfer-Money的事件：收治，该事件涉及到的论元有：[A]角色为Recipient的巴勒斯坦 "}
+{"label": "这个句子中涉及的事件包括：1) 类型为Conflict:Attack的事件：冲突，该事件涉及到的论元有：[A]角色为Attacker的军 2) 类型为Conflict:Attack的事件：打，该事件涉及到的论元有：[A]角色为Attacker的军，[B]角色为Target的巴勒斯坦人 3) 类型为Life:Die的事件：死，该事件涉及到的论元有：[A]角色为Victim的巴勒斯坦人，[B]角色为Agent的军 4) 类型为Life:Injure的事件：受伤，该事件涉及到的论元有：[A]角色为Victim的人，[B]角色为Agent的军 ", "predict": "这个句子中涉及的事件包括：1) 类型为Conflict:Attack的事件：冲突，该事件不涉及论元。 2) 类型为Life:Die的事件：打死，该事件涉及到的论元有：[A]角色为Victim的巴勒斯坦人，[B]角色为Agent的军 3) 类型为Life:Injure的事件：受伤，该事件涉及到的论元有：[A]角色为Victim的人，[B]角色为Agent的军 "}
+{"label": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：飞低，该事件涉及到的论元有：[A]角色为Artifact的伤员，[B]角色为Vehicle的飞机，[C]角色为Destination的约旦，[D]角色为Origin的西岸 ", "predict": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：飞，该事件涉及到的论元有：[A]角色为Vehicle的直升飞机，[B]角色为Artifact的伤员，[C]角色为Destination的约旦 "}
+{"label": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：访问，该事件涉及到的论元有：[A]角色为Artifact的阿拉法特，[B]角色为Destination的约旦 2) 类型为Movement:Transport的事件：离开，该事件涉及到的论元有：[A]角色为Artifact的阿拉法特，[B]角色为Origin的安曼 ", "predict": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：访问，该事件涉及到的论元有：[A]角色为Artifact的阿拉法特，[B]角色为Destination的约旦 2) 类型为Movement:Transport的事件：离开，该事件涉及到的论元有：[A]角色为Artifact的阿拉法特，[B]角色为Origin的安曼 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Justice:Fine的事件：罚款，该事件涉及到的论元有：[A]角色为Adjudicator的政府 ", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：停靠，该事件涉及到的论元有：[A]角色为Vehicle的油轮，[B]角色为Destination的码头 2) 类型为Conflict:Attack的事件：撞，该事件涉及到的论元有：[A]角色为Attacker的油轮，[B]角色为Target的码头 3) 类型为Life:Injure的事件：泄，该事件涉及到的论元有：[A]角色为Instrument的海 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Transaction:Transfer-Money的事件：投资，该事件涉及到的论元有：[A]角色为Giver的巴西石油公司 ", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：访问，该事件涉及到的论元有：[A]角色为Artifact的伊万诺夫，[B]角色为Origin的俄罗斯，[C]角色为Destination的这里，[D]角色为Agent的俄罗斯 ", "predict": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：访问，该事件涉及到的论元有：[A]角色为Artifact的伊万诺夫，[B]角色为Destination的德国 2) 类型为Contact:Meet的事件：对话，该事件涉及到的论元有：[A]角色为Place的这里，[B]角色为Entity的伊万诺夫 3) 类型为Contact:Meet的事件：对话，该事件涉及到的论元有：[A]角色为Entity的俄罗斯，[B]角色为Entity的欧盟 4) 类型为Contact:Meet的事件：合作，该事件涉及到的论元有：[A]角色为Entity的俄罗斯，[B]角色为Entity的欧盟 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Conflict:Attack的事件：打，该事件涉及到的论元有：[A]角色为Attacker的军，[B]角色为Place的米拉格定居点，[C]角色为Target的巴勒斯坦人 2) 类型为Life:Die的事件：死，该事件涉及到的论元有：[A]角色为Victim的巴勒斯坦人，[B]角色为Agent的军，[C]角色为Place的米拉格定居点 3) 类型为Life:Injure的事件：受伤，该事件涉及到的论元有：[A]角色为Victim的人，[B]角色为Agent的军，[C]角色为Place的米拉格定居点 ", "predict": "这个句子中涉及的事件包括：1) 类型为Conflict:Attack的事件：打，该事件涉及到的论元有：[A]角色为Attacker的军，[B]角色为Place的米拉格定居点，[C]角色为Target的巴勒斯坦人 2) 类型为Life:Die的事件：死，该事件涉及到的论元有：[A]角色为Victim的巴勒斯坦人，[B]角色为Agent的军，[C]角色为Place的米拉格定居点 3) 类型为Life:Injure的事件：受伤，该事件涉及到的论元有：[A]角色为Victim的人，[B]角色为Agent的军，[C]角色为Place的米拉格定居点 "}
+{"label": "这个句子中涉及的事件包括：1) 类型为Conflict:Attack的事件：开火，该事件涉及到的论元有：[A]角色为Target的车辆，[B]角色为Instrument的坦克 2) 类型为Life:Injure的事件：伤，该事件不涉及论元。 3) 类型为Life:Die的事件：亡，该事件不涉及论元。 ", "predict": "这个句子中涉及的事件包括：1) 类型为Conflict:Attack的事件：开火，该事件涉及到的论元有：[A]角色为Attacker的军，[B]角色为Target的车辆 2) 类型为Life:Injure的事件：伤，该事件涉及到的论元有：[A]角色为Victim的车辆 3) 类型为Life:Die的事件：亡，该事件涉及到的论元有：[A]角色为Victim的车辆 "}
+{"label": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：前往，该事件涉及到的论元有：[A]角色为Agent的军，[B]角色为Vehicle的救护车 ", "predict": "这个句子中涉及的事件包括：1) 类型为Conflict:Attack的事件：枪击，该事件不涉及论元。 2) 类型为Life:Die的事件：死，该事件涉及到的论元有：[A]角色为Victim的者 "}
+{"label": "这个句子中涉及的事件包括：1) 类型为Conflict:Attack的事件：打，该事件涉及到的论元有：[A]角色为Attacker的军，[B]角色为Place的地点，[C]角色为Target的巴勒斯坦人 2) 类型为Life:Die的事件：死，该事件涉及到的论元有：[A]角色为Victim的巴勒斯坦人，[B]角色为Place的地点 3) 类型为Conflict:Attack的事件：交火，该事件涉及到的论元有：[A]角色为Attacker的巴勒斯坦人，[B]角色为Attacker的军，[C]角色为Target的巴勒斯坦人，[D]角色为Target的军 4) 类型为Life:Die的事件：丧生，该事件涉及到的论元有：[A]角色为Victim的他们，[B]角色为Agent的军 ", "predict": "这个句子中涉及的事件包括：1) 类型为Conflict:Attack的事件：交火，该事件涉及到的论元有：[A]角色为Attacker的军，[B]角色为Attacker的巴勒斯坦人，[C]角色为Target的军，[D]角色为Target的巴勒斯坦人 2) 类型为Life:Die的事件：死，该事件涉及到的论元有：[A]角色为Victim的名，[B]角色为Place的地点 3) 类型为Life:Die的事件：丧生，该事件涉及到的论元有：[A]角色为Victim的他们，[B]角色为Place的地点 "}
+{"label": "这个句子中涉及的事件包括：1) 类型为Life:Injure的事件：伤，该事件不涉及论元。 2) 类型为Life:Injure的事件：亡，该事件不涉及论元。 ", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Life:Injure的事件：伤，该事件涉及到的论元有：[A]角色为Instrument的炸弹，[B]角色为Victim的小学生，[C]角色为Place的古什·卡提夫定居点 ", "predict": "这个句子中涉及的事件包括：1) 类型为Conflict:Attack的事件：爆炸，该事件涉及到的论元有：[A]角色为Place的古什·卡提夫定居点 2) 类型为Conflict:Attack的事件：炸，该事件涉及到的论元有：[A]角色为Place的学校，[B]角色为Target的小学生，[C]角色为Instrument的炸弹 "}
+{"label": "这个句子中涉及的事件包括：1) 类型为Conflict:Attack的事件：打，该事件涉及到的论元有：[A]角色为Attacker的以，[B]角色为Attacker的巴，[C]角色为Target的以，[D]角色为Target的巴 2) 类型为Life:Die的事件：死，该事件涉及到的论元有：[A]角色为Victim的人 ", "predict": "这个句子中涉及的事件包括：1) 类型为Conflict:Attack的事件：冲突，该事件涉及到的论元有：[A]角色为Attacker的以，[B]角色为Attacker的巴，[C]角色为Target的以，[D]角色为Target的巴 2) 类型为Conflict:Attack的事件：打，该事件涉及到的论元有：[A]角色为Attacker的以，[B]角色为Attacker的巴，[C]角色为Target的巴勒斯坦人 3) 类型为Life:Die的事件：死，该事件涉及到的论元有：[A]角色为Victim的巴勒斯坦人，[B]角色为Agent的以，[C]角色为Agent的巴 "}
+{"label": "这个句子中涉及的事件包括：1) 类型为Business:Start-Org的事件：成立，该事件涉及到的论元有：[A]角色为Org的华侨华人投诉咨 询服务中心，[B]角色为Place的广州 ", "predict": "这个句子中涉及的事件包括：1) 类型为Business:Start-Org的事件：成立，该事件涉及到的论元有：[A]角色为Org的咨 询服务中心，[B]角色为Place的广州 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：回，该事件涉及到的论元有：[A]角色为Artifact的华侨，[B]角色为Artifact的华人，[C]角色为Artifact的同胞，[D]角色为Destination的粤 ", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Business:Start-Org的事件：组成，该事件涉及到的论元有：[A]角色为Org的政府，[B]角色为Agent的拉 胡德 ", "predict": "这个句子中涉及的事件包括：1) 类型为Personnel:Start-Position的事件：授命，该事件涉及到的论元有：[A]角色为Person的哈里里，[B]角色为Place的黎巴嫩 "}
+{"label": "这个句子中涉及的事件包括：1) 类型为Personnel:Nominate的事件：提名，该事件涉及到的论元有：[A]角色为Person的哈里里，[B]角色为Agent的议员 ", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中涉及的事件包括：1) 类型为Personnel:Start-Position的事件：授命，该事件涉及到的论元有：[A]角色为Person的哈里里 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中涉及的事件包括：1) 类型为Personnel:Start-Position的事件：宣布，该事件涉及到的论元有：[A]角色为Person的哈里里 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中涉及的事件包括：1) 类型为Personnel:Start-Position的事件：受命，该事件不涉及论元。 "}
+{"label": "这个句子中涉及的事件包括：1) 类型为Personnel:Start-Position的事件：出任，该事件涉及到的论元有：[A]角色为Person的他 ", "predict": "这个句子中涉及的事件包括：1) 类型为Personnel:Start-Position的事件：出任，该事件涉及到的论元有：[A]角色为Person的他 2) 类型为Personnel:Start-Position的事件：组 阁，该事件涉及到的论元有：[A]角色为Person的他 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中涉及的事件包括：1) 类型为Personnel:Elect的事件：大选，该事件涉及到的论元有：[A]角色为Person的集团，[B]角色为Person的盟友 "}
+{"label": "这个句子中涉及的事件包括：1) 类型为Business:Start-Org的事件：就职，该事件涉及到的论元有：[A]角色为Org的议会 2) 类型为Business:End-Org的事件：辞职，该事件涉及到的论元有：[A]角色为Org的政府 ", "predict": "这个句子中涉及的事件包括：1) 类型为Personnel:End-Position的事件：辞职，该事件涉及到的论元有：[A]角色为Person的集 体 "}
+{"label": "这个句子中涉及的事件包括：1) 类型为Life:Die的事件：死亡，该事件涉及到的论元有：[A]角色为Victim的人，[B]角色为Place的索利蒙 伊斯河 ", "predict": "这个句子中涉及的事件包括：1) 类型为Life:Die的事件：死亡，该事件涉及到的论元有：[A]角色为Victim的人，[B]角色为Place的伊斯河 2) 类型为Life:Die的事件：失踪，该事件涉及到的论元有：[A]角色为Victim的人，[B]角色为Place的伊斯河 "}
+{"label": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：开出，该事件涉及到的论元有：[A]角色为Vehicle的船，[B]角色为Origin的马瑙斯 ", "predict": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：开出，该事件涉及到的论元有：[A]角色为Vehicle的船，[B]角色为Origin的马瑙斯 2) 类型为Life:Die的事件：沉没，该事件涉及到的论元有：[A]角色为Instrument的船 "}
+{"label": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：赶来，该事件涉及到的论元有：[A]角色为Artifact的船民 ", "predict": "这个句子中涉及的事件包括：1) 类型为Life:Injure的事件：落水，该事件涉及到的论元有：[A]角色为Victim的落水者 2) 类型为Life:Save的事件：救起，该事件涉及到的论元有：[A]角色为Instrument的船，[B]角色为Victim的落水者，[C]角色为Rescuer的船民 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：到，该事件不涉及论元。 2) 类型为Life:Die的事件：死，该事件不涉及论元。 1) 类型为Life:Die的事件：死，该事件不涉及论元。 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Life:Die的事件：死亡，该事件涉及到的论元有：[A]角色为Victim的人 2) 类型为Life:Injure的事件：重伤，该事件涉及到的论元有：[A]角色为Victim的人 ", "predict": "这个句子中涉及的事件包括：1) 类型为Life:Die的事件：死亡，该事件涉及到的论元有：[A]角色为Victim的人 2) 类型为Life:Injure的事件：重伤，该事件涉及到的论元有：[A]角色为Victim的人 3) 类型为Life:Die的事件：失踪，该事件涉及到的论元有：[A]角色为Victim的人 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：出境，该事件涉及到的论元有：[A]角色为Artifact的人，[B]角色为Agent的蛇头 "}
+{"label": "这个句子中涉及的事件包括：1) 类型为Justice:Sentence的事件：判处，该事件涉及到的论元有：[A]角色为Adjudicator的中级人民法院，[B]角色为Defendant的张济洪，[C]角色为Place的镇江市 2) 类型为Transaction:Transfer-Money的事件：处，该事件涉及到的论元有：[A]角色为Giver的张济洪，[B]角色为Place的镇江市，[C]角色为Recipient的中级人民法院 ", "predict": "这个句子中涉及的事件包括：1) 类型为Justice:Sentence的事件：判处，该事件涉及到的论元有：[A]角色为Adjudicator的中级人民法院，[B]角色为Defendant的张济洪 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Justice:Sentence的事件：判处，该事件涉及到的论元有：[A]角色为Defendant的郑德龙 2) 类型为Transaction:Transfer-Money的事件：处，该事件涉及到的论元有：[A]角色为Giver的郑德龙 ", "predict": "这个句子中涉及的事件包括：1) 类型为Justice:Sentence的事件：判处，该事件涉及到的论元有：[A]角色为Defendant的郑德龙 "}
+{"label": "这个句子中涉及的事件包括：1) 类型为Justice:Sentence的事件：判处，该事件涉及到的论元有：[A]角色为Defendant的申明 哲 2) 类型为Transaction:Transfer-Money的事件：处，该事件涉及到的论元有：[A]角色为Giver的申明 哲 ", "predict": "这个句子中涉及的事件包括：1) 类型为Justice:Sentence的事件：判处，该事件涉及到的论元有：[A]角色为Defendant的哲 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：偷渡，该事件涉及到的论元有：[A]角色为Artifact的人员，[B]角色为Origin的东北地区 2) 类型为Movement:Transport的事件：乘，该事件涉及到的论元有：[A]角色为Vehicle的光辉顶峰，[B]角色为Artifact的人员 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Justice:Arrest-Jail的事件：抓获，该事件涉及到的论元有：[A]角色为Agent的他们，[B]角色为Person的官兵，[C]角色为Place的码头 ", "predict": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：偷登，该事件涉及到的论元有：[A]角色为Artifact的偷渡者，[B]角色为Destination的轮，[C]角色为Origin的码头 2) 类型为Justice:Arrest-Jail的事件：抓获，该事件涉及到的论元有：[A]角色为Person的偷渡者，[B]角色为Agent的官兵，[C]角色为Place的镇江 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：到，该事件涉及到的论元有：[A]角色为Agent的投资者，[B]角色为Destination的北方微电 子产业基地 ", "predict": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：到，该事件涉及到的论元有：[A]角色为Artifact的投资者，[B]角色为Destination的基地 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Business:Start-Org的事件：设立，该事件涉及到的论元有：[A]角色为Org的北京讯创集成电路股份有限公司，[B]角色为Agent的北京电子控股有 限公司，[C]角色为Agent的北京东方电子集团股份有限公司，[D]角色为Agent的北京建中机器厂，[E]角色为Agent的信达投资控股公司，[F]角色为Agent的亚太科技开发股份有限公司 ", "predict": "这个句子中涉及的事件包括：1) 类型为Business:Start-Org的事件：奠基，该事件涉及到的论元有：[A]角色为Org的北京讯创集成电路股份有限公司 2) 类型为Business:Start-Org的事件：设立，该事件涉及到的论元有：[A]角色为Agent的的，[B]角色为Org的北京讯创集成电路股份有限公司 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Business:Declare-Bankruptcy的事件：破产，该事件涉及到的论元有：[A]角色为Org的郑秀珍 ", "predict": "这个句子中涉及的事件包括：1) 类型为Justice:Declare-Bankrupt的事件：破产，该事件涉及到的论元有：[A]角色为Adjudicator的高等 法庭，[B]角色为Plaintiff的郑秀珍 "}
+{"label": "这个句子中涉及的事件包括：1) 类型为Business:Declare-Bankruptcy的事件：破产，该事件涉及到的论元有：[A]角色为Org的郑秀珍 ", "predict": "这个句子中涉及的事件包括：1) 类型为Justice:Sentence的事件：宣判，该事件涉及到的论元有：[A]角色为Defendant的郑秀珍 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Justice:Sue的事件：入禀，该事件涉及到的论元有：[A]角色为Adjudicator的法庭，[B]角色为Defendant的郑秀珍，[C]角色为Plaintiff的Ong andCompany私 人有限公司 2) 类型为Justice:Sentence的事件：判，该事件涉及到的论元有：[A]角色为Adjudicator的法庭，[B]角色为Defendant的郑秀珍 ", "predict": "这个句子中涉及的事件包括：1) 类型为Justice:Sue的事件：入禀，该事件涉及到的论元有：[A]角色为Adjudicator的法庭，[B]角色为Plaintiff的私 人有限公司 2) 类型为Justice:Sentence的事件：入穷籍，该事件涉及到的论元有：[A]角色为Defendant的郑秀珍，[B]角色为Adjudicator的法庭 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Business:Declare-Bankruptcy的事件：破产，该事件涉及到的论元有：[A]角色为Org的郑秀珍 ", "predict": "这个句子中涉及的事件包括：1) 类型为Justice:Pronounce-Opposition的事件：宣判，该事件涉及到的论元有：[A]角色为Adjudicator的高庭，[B]角色为Defendant的郑秀珍 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：离开，该事件涉及到的论元有：[A]角色为Artifact的破产人，[B]角色为Origin的新加坡 ", "predict": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：离开，该事件涉及到的论元有：[A]角色为Artifact的破产人 "}
+{"label": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：到，该事件涉及到的论元有：[A]角色为Artifact的郑秀珍，[B]角色为Destination的中国 2) 类型为Movement:Transport的事件：离，该事件涉及到的论元有：[A]角色为Artifact的郑秀珍，[B]角色为Origin的新 ", "predict": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：到，该事件涉及到的论元有：[A]角色为Artifact的郑秀珍，[B]角色为Destination的中国 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：回 来，该事件涉及到的论元有：[A]角色为Artifact的她，[B]角色为Destination的新加坡 ", "predict": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：回 来，该事件涉及到的论元有：[A]角色为Artifact的秀珍，[B]角色为Destination的新加坡 "}
+{"label": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：回来，该事件涉及到的论元有：[A]角色为Artifact的秀珍 2) 类型为Contact:Meet的事件：面 谈，该事件涉及到的论元有：[A]角色为Entity的秀珍，[B]角色为Entity的高层 ", "predict": "这个句子中涉及的事件包括：1) 类型为Movement:Transport的事件：回来，该事件涉及到的论元有：[A]角色为Artifact的她 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中涉及的事件包括：1) 类型为Business:Declare-Bankruptcy的事件：破产，该事件涉及到的论元有：[A]角色为Org的她 ", "predict": "这个句子中涉及的事件包括：1) 类型为Justice:Declare-Person-Bankrupt的事件：破产，该事件涉及到的论元有：[A]角色为Person的她 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中涉及的事件包括：1) 类型为Contact:Meet的事件：访，该事件涉及到的论元有：[A]角色为Entity的陈文聪 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中涉及的事件包括：1) 类型为Personnel:End-Position的事件：辞 演，该事件涉及到的论元有：[A]角色为Person的她 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中涉及的事件包括：1) 类型为Personnel:End-Position的事件：离开，该事件涉及到的论元有：[A]角色为Person的新传媒 "}
+{"label": "这个句子中涉及的事件包括：1) 类型为Contact:Meet的事件：面谈，该事件涉及到的论元有：[A]角色为Entity的高层，[B]角色为Entity的她 ", "predict": "这个句子中涉及的事件包括：1) 类型为Contact:Meet的事件：面谈，该事件涉及到的论元有：[A]角色为Entity的高层，[B]角色为Entity的她 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中涉及的事件包括：1) 类型为Personnel:End-Position的事件：辞职，该事件涉及到的论元有：[A]角色为Person的郑 秀珍 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中涉及的事件包括：1) 类型为Personnel:End-Position的事件：辞演，该事件涉及到的论元有：[A]角色为Person的郑秀珍 "}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
+{"label": "这个句子中不涉及任何事件。", "predict": "这个句子中不涉及任何事件。"}
