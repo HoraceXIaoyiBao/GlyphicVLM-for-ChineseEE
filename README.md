@@ -59,3 +59,15 @@ Place the train/dev/test json files in the raw_data folder, named zh_train_seq_o
 
     python ./final_oneie_tradition/turn_glm_intern.py
 
+
+## Train
+Modify the data_path and output_dir in  [finetune_lora.sh](/finetune/finetune_lora.sh) and run
+ 
+    sh finetune_lora.sh
+
+
+## Test & Infer
+Modify the output_checkpoint in  [infer_search.py](/infer_search.py) and run
+ 
+    python infer_search.py
+
