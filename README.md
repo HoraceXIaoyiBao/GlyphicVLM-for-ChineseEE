@@ -14,5 +14,37 @@ We adopt the spliting and proprocessing rom ONEIE (https://github.com/GerlinGree
 ### KBP2017
 We adopt the KBP2017 data from  (https://arxiv.org/pdf/2012.01878).
 
-The raw data will be processed into the formation in the example file /raw_data/raw_data_example.json
+The raw data will be processed into the formation shown in the  [example file](raw_data/raw_data_example.json).
 
+
+## Data Preparation and Preprocessing
+
+### ACE2005
+We adopt the spliting and proprocessing rom ONEIE (https://github.com/GerlinGreen/OneIE/tree/main), please follow specific instruction in ONEIE.
+
+### KBP2017
+We adopt the KBP2017 data from  (https://arxiv.org/pdf/2012.01878).
+
+The raw data will be processed into the formation shown in the  [example file](raw_data/raw_data_example.json).
+
+If you do not have access to the two above dataset, please  [email](p2213545413@outlook.com) me after obtaining the licence.
+
+
+## Pre-requirement
+
+    git clone https://github.com/InternLM/InternLM-XComposer.git
+    conda create -n gvlm python=3.9
+    conda activate gvlm
+
+    pip3 install torch torchvision torchaudio
+    pip install transformers==4.30.2 timm==0.4.12 sentencepiece==0.1.99 gradio==3.44.4 markdown2==2.4.10 xlsxwriter==3.1.2 einops deepspeed peft
+    
+
+
+## Glyphic Image Generation
+
+For printing the visual emphasises, we need the gold label for train set and the LLM-predicted label for the test set.
+
+We provide the LLM-predicted label in [ACE2005_test_predict](raw_data/generated_predictions.jsonl), which is annotated by a LoRA finetuned LLaMA-3-8B and align with our processed ACE05 testset. 
+
+You can also finetune and predict it by yourself.
