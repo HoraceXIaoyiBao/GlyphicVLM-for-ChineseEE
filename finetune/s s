@@ -1,0 +1,51 @@
+import os
+
+f=open("/home/baoxiaoyi/szy/HiSD-main/datasets/train_label.txt","r")
+
+data=[i.strip().split() for i in f.readlines() ]
+
+f.close()
+
+# Male
+# Big Nose
+# Arched Eyebrows
+# No Beard
+
+# Straight_Hair 
+# Wavy_Hair 
+
+att_name=data[0]
+print(att_name.index("Male"))
+print(att_name.index("Big_Nose"))
+print(att_name.index("Arched_Eyebrows"))
+print(att_name.index("No_Beard"))
+print(att_name.index("Straight_Hair"))
+print(att_name.index("Wavy_Hair"))
+
+
+pictures=dict()
+
+for i in data[1:]:
+    pictures[i[0]]= [  i[att_name.index("Male")+1],
+                     i[att_name.index("Big_Nose")+1],
+                     i[att_name.index("Arched_Eyebrows")+1],
+                     i[att_name.index("No_Beard")+1],
+                     i[att_name.index("Male")+1],
+                     i[att_name.index("Straight_Hair")+1],
+    
+                     ]
+file_list=os.listdir("/home/baoxiaoyi/szy/HiSD-main/datasets/my_label")    
+print(file_list)
+
+for file_name in file_list:
+
+    f=open("/home/baoxiaoyi/szy/HiSD-main/datasets/my_label/"+file_name,"r")
+   
+    raw=[i.strip() for i in f.readlines() ]
+
+    f.close()
+    
+    f=open("/home/baoxiaoyi/szy/HiSD-main/datasets/my_label_new_att/"+file_name,'w')
+    
+    for r in raw:
+        f.write(r+ " "+    pictures[r.split(" ")[0].split("/")[-1]]        )

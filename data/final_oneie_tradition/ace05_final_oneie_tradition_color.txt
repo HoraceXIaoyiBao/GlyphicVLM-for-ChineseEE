@@ -1,0 +1,1 @@
+/home/baoxiaoyi/emnlp2024/InternLM-XComposer/data/final_oneie_tradition/ee_nl_zh_train_seq_oneie_internLM.json 7
