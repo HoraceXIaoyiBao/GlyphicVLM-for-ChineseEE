@@ -5,6 +5,7 @@ Employing Glyphic Information for Chinese Event Extraction with Vision-Language 
 
 Xiaoyi Bao, Jinghang Gu, Zhongqing Wang, Minjie Qiang, and Chu-Ren Huang. 2024.  In Findings of the Association for Computational Linguistics: EMNLP 2024, pages 1068–1080, Miami, Florida, USA. Association for Computational Linguistics.
 
+This project is based on [InternLM](https://github.com/InternLM/InternLM-XComposerraw_data/raw_data_example.json). Thanks to them!
 
 ## Data Preparation and Preprocessing
 
