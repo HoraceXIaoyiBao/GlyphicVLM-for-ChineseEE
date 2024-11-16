@@ -71,4 +71,24 @@ Modify the data_path and output_dir in  [finetune_lora.sh](/finetune/finetune_lo
 Modify the output_checkpoint in  [infer_search.py](/infer_search.py) and run
  
     python infer_search.py
-
+    
+## Cite (Welcome!)
+    @inproceedings{bao-etal-2024-employing,
+        title = "Employing Glyphic Information for {C}hinese Event Extraction with Vision-Language Model",
+        author = "Bao, Xiaoyi  and
+          Gu, Jinghang  and
+          Wang, Zhongqing  and
+          Qiang, Minjie  and
+          Huang, Chu-Ren",
+        editor = "Al-Onaizan, Yaser  and
+          Bansal, Mohit  and
+          Chen, Yun-Nung",
+        booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2024",
+        month = nov,
+        year = "2024",
+        address = "Miami, Florida, USA",
+        publisher = "Association for Computational Linguistics",
+        url = "https://aclanthology.org/2024.findings-emnlp.58",
+        pages = "1068--1080",
+        abstract = "As a complex task that requires rich information input, features from various aspects have been utilized in event extraction. However, most of the previous works ignored the value of glyph, which could contain enriched semantic information and can not be fully expressed by the pre-trained embedding in hieroglyphic languages like Chinese. We argue that, compared with combining the sophisticated textual features, glyphic information from visual modality could provide us with extra and straight semantic information in extracting events. Motivated by this, we propose a glyphic multi-modal Chinese event extraction model with hieroglyphic images to capture the intra- and inter-character morphological structure from the sequence. Extensive experiments build a new state-of-the-art performance in the ACE2005 Chinese and KBP Eval 2017 dataset, which underscores the effectiveness of our proposed glyphic event extraction model, and more importantly, the glyphic feature can be obtained at nearly zero cost.",
+    }
